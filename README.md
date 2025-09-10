@@ -1,9 +1,6 @@
 # Just-enough-PyTorch-to-be-dangerous-
 The code is provided for research and educational purposes only. The author does not assume any responsibility for improper use or damages caused by this software.
 
-
-# Just Enough PyTorch to Be Dangerous
-
 This repository is my personal journey through PyTorch.  
 It starts from the very basics and builds step by step, with each chapter introducing a new concept and a practical example.
 
