@@ -4,6 +4,8 @@ The code is provided for research and educational purposes only. The author does
 This repository is my personal journey through PyTorch.  
 It starts from the very basics and builds step by step, with each chapter introducing a new concept and a practical example.
 
+You can find Medium Post here : https://ai.plainenglish.io/just-enough-pytorch-to-be-dangerous-0c4793d4c260
+
 ## Chapters
 
 1. **Basics**  
